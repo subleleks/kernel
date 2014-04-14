@@ -1,2 +1,4 @@
 kernel
 ======
+
+Our mighty kernel.
